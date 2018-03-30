@@ -1,7 +1,3 @@
-/*<header>
-	<img src="https://vignette.wikia.nocookie.net/deadonarrivalrp/images/6/65/Red_Pokemon.png/revision/latest?cb=20120501202204">
-	<h1>Red</h1>
-</header>*/
 html, body {background-color: #e0e0e2;
 margin: 0px;}
 
@@ -46,12 +42,20 @@ h2{margin-left: 50px;
 margin-right: 50px;}
 ol{margin-right: 50px;
 margin-left:50px;}
-ul{margin-left: 50px;
-margin-right: 50px;}
+ul{
+	margin-left: 50px;
+margin-right: 50px;
+display: inline-block;}
 img {width: 100%}
-p.caption{color:#e0e0e2;}
 footer ul{
+	float: left;
+	width: 100%;
+	text-align: justify;
+}
+footer ul li{
 	display: inline-block;
+	margin-right: 7px;
+	margin-left: 7px;
 }
 
 
