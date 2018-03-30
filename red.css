@@ -40,31 +40,26 @@ margin-bottom: 0px;
 
 h2{margin-left: 50px;
 margin-right: 50px;
-text-align: center;
 }
 ol{margin-right: 50px;
 margin-left:50px;
 text-align: justify;
 }
 body ul{
-	margin-left: 100px;
-margin-right: 100px;
-text-align: center;
 columns: 2;
 width: 100%;
 }
 body ul li{
 	columns: 2;
-	text-align: center;
 }
 img {width: 100%}
+}
 footer ul{
-	text-align: center;
+	display: inline-block;
 }
 footer ul li{
 	display: inline-block;
-	margin-right: 7px;
-	margin-left: 7px;
+	margin: 5px;
 }
 
 
