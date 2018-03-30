@@ -1,0 +1,60 @@
+/*<header>
+	<img src="https://vignette.wikia.nocookie.net/deadonarrivalrp/images/6/65/Red_Pokemon.png/revision/latest?cb=20120501202204">
+	<h1>Red</h1>
+</header>*/
+html, body {background-color: #e0e0e2;
+margin: 0px;}
+
+dir{padding: 0px;
+margin-top: 0px;}
+header{
+		text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	background-color: #9b231d;
+	background-image:url(http://retr8bit.com/wp-content/uploads/2014/12/poeballs.png);
+	background-repeat: repeat;
+}
+header img{
+	 width: 250px;
+ height: 250px;
+ background: #0a0560;
+ border-radius: 50%;
+ padding:15px;
+
+}
+h1{font-family: Comic Sans MS; Comic Sans;
+	color: white;
+		text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+		2px 2px 0 #000;
+}
+
+p{text-align: left;
+text-indent: 40px;
+margin-left:50px;
+margin-right: 50px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+h2{margin-left: 50px;
+margin-right: 50px;}
+ol{margin-right: 50px;
+margin-left:50px;}
+ul{margin-left: 50px;
+margin-right: 50px;}
+img {width: 100%}
+p.caption{color:#e0e0e2;}
+footer ul{
+	display: inline-block;
+}
+
+
+
+
+
